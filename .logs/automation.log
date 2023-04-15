@@ -1,0 +1,8 @@
+09:51:30.151 [main] INFO  api.test.UserTests - ******************** Creating User ********************
+09:51:31.987 [main] INFO  api.test.UserTests - ******************** User is Created ********************
+09:51:32.000 [main] INFO  api.test.UserTests - ******************** Generating the User Details ********************
+09:51:32.239 [main] INFO  api.test.UserTests - ******************** User Details Got Generated ********************
+09:51:32.241 [main] INFO  api.test.UserTests - ********************Updating the User ********************
+09:51:32.695 [main] INFO  api.test.UserTests - ******************** User is Updated ********************
+09:51:32.699 [main] INFO  api.test.UserTests - ******************** Deleting the User ********************
+09:51:32.916 [main] INFO  api.test.UserTests - ******************** User is Deleted ********************
